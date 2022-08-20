@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,qBACE,YACF","file":"main.a9f8bf57.chunk.css","sourcesContent":["/* not empty */\n.startButton--hidden {\n  display: none;\n}\n"]}
